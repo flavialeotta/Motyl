@@ -2,6 +2,7 @@
 output:
   html_document: default
   pdf_document: default
+  github_document: default
 ---
 <img src="static/logo.png" alt="logo" style="width:300px; height:auto; display:block; margin:auto;">
 
@@ -333,6 +334,7 @@ In this page the user can provide a nucleotide sequence: only sequences containi
 #### 2.8 Matching scores page
 This page returns the matching scores obtained by comparing the provided sequence to all the motifs of the same length, using the scoring methods described previously. The user can also access each motif's information by clicking on the provided button.<br>
 <img src="documentation/matching_scores.png" alt="Matching scores page" style="width:300px; height:auto;">
+
 
 
 
