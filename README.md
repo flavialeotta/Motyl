@@ -188,7 +188,7 @@ where:
 A file that contains a list of the required libraries to run Motyl. Before launching Motyl, make sure to install the required libraries by running the following command in the main directory:
 
 ```
-pip install -r requirements.txt
+py -m pip install -r documentation/requirements.txt
 ```
 
 ### 5. saved_svg folder
